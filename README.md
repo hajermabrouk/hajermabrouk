@@ -58,7 +58,6 @@ J’aime transformer des données brutes en **solutions utiles, élégantes et e
 🔹 **MatchINI — IA pour le recrutement intelligent**  
 🔹 **Doxaria — OCR médical + prédiction d’éligibilité**  
 🔹 **WasteWise — Application environnementale (Symfony)**  
-🔹 **Skylytics — Pipeline Big Data & prédiction de retards de vols**
 
 > 👉 Tous mes projets seront bientôt publiés avec des README complets.
 
