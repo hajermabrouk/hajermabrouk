@@ -48,7 +48,7 @@ J’aime transformer des données brutes en **solutions utiles, élégantes et e
 
 ### 🔹 Développement Web  
 - Symfony / PHP  
-- Angular, HTML/CSS  
+- Angular, HTML/CSS ,JS
 - REST API architecture
 
 ---
@@ -66,7 +66,6 @@ J’aime transformer des données brutes en **solutions utiles, élégantes et e
 
 - ✉️ Email : **mabroukh@3il.fr**  
 - 💼 LinkedIn : [linkedin.com/in/hajer-mabrouk](https://www.linkedin.com/in/hajer-mabrouk-983431254/)  
-- 🌐 Portfolio : *en cours de mise en ligne*  
 - 💻 GitHub : [github.com/hajermabrouk](https://github.com/hajermabrouk)
 
 ---
